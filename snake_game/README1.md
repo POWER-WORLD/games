@@ -38,8 +38,8 @@ Open snake.html in your preferred web browser<br>
 <h2>Enjoy playing! 🎉</h2>
 
 <h3>📸 Screenshots-</h3>
-<img src="images/sc1.png" alt="Alt text" width="500">
-<img src="images/sc2.png" alt="Alt text" width="500"><br>
+<img src="../images/sc1.png" alt="Alt text" width="500">
+<img src="../images/sc2.png" alt="Alt text" width="500"><br>
 
 <h3>📄 License-</h3>
 This project is open-source and available under the MIT License.<br>
