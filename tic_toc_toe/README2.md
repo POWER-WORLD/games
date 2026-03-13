@@ -30,7 +30,7 @@ Open index.html in your web browser<br>
 <h2>That’s it — you’re ready to play! 🎉</h2>
 
 <h1>📸 Demo Preview-</h1>
-<img src="images/sc3.png" alt="Alt text" width="500"><br>
+<img src="../images/sc3.png" alt="Alt text" width="500"><br>
 
 
 <h1>📄 License-</h1>
